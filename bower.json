@@ -1,0 +1,20 @@
+{
+  "name": "rainbowvis.js",
+  "description": "A JavaScript library for colour data visualization. Easily map numbers to a smooth-transitioning colour legend.",
+  "main": "rainbowvis.js",
+  "authors": [
+    "Sophiah Ho"
+  ],
+  "license": "EPL-1.0",
+  "keywords": [
+    "color",
+    "colour",
+    "rainbow",
+    "visualization",
+    "palette"
+  ],
+  "homepage": "https://github.com/atomicleopard/RainbowVis-JS",
+  "moduleType": [
+    "node"
+  ]
+}
